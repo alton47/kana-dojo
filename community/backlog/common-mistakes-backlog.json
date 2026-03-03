@@ -357,7 +357,7 @@
     "explanation": "Recipient takes に with 教える. (Pattern set 3)",
     "id": 45,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "図書館に本を借りました。",
@@ -365,7 +365,7 @@
     "explanation": "で marks location of action. (Pattern set 3)",
     "id": 46,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "私は昨日東京に行きます。",
@@ -373,7 +373,7 @@
     "explanation": "Use past tense for past actions. (Pattern set 3)",
     "id": 47,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "東京は人が多いです、きれいです。",
@@ -381,7 +381,7 @@
     "explanation": "Use て-form to connect clauses. (Pattern set 3)",
     "id": 48,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "友達に会うを楽しみにしています。",
@@ -396,7 +396,7 @@
     "correct": "私は兄が二人います。",
     "explanation": "Use 兄 for your own older brother. (Pattern set 3)",
     "id": 50,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
