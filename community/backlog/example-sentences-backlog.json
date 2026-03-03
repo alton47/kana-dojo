@@ -447,7 +447,7 @@
     "jlpt": "N4",
     "id": 50,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "来月から新しいプロジェクトに参加することになりました。",
@@ -456,7 +456,7 @@
     "jlpt": "N3",
     "id": 51,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "宿題を忘れないように、カレンダーに書いておきます。",
@@ -465,7 +465,7 @@
     "jlpt": "N4",
     "id": 52,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "店員さんにおすすめの料理を聞いてみた。",
@@ -473,7 +473,7 @@
     "english": "I asked the staff for recommended dishes.",
     "jlpt": "N4",
     "id": 53,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
