@@ -114,7 +114,7 @@
     "meaning": "Not feel like doing it. (Set 1)",
     "id": 13,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "胸を張る",
@@ -123,7 +123,7 @@
     "meaning": "Be proud/confident. (Set 1)",
     "id": 14,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "鼻が高い",
@@ -132,7 +132,7 @@
     "meaning": "Feel proud. (Set 1)",
     "id": 15,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "首を長くする",
@@ -141,7 +141,7 @@
     "meaning": "Wait eagerly. (Set 1)",
     "id": 16,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "水に流す",
@@ -149,7 +149,7 @@
     "english": "Let it flow in water",
     "meaning": "Let bygones be bygones. (Set 1)",
     "id": 17,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
